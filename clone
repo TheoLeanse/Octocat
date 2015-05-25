@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+"git clone" copies a remote repository to a local repository, including a .git directory including a history of commits, points to that remote reopository as "origin", and sets the local master branch to track the origin/master branch.
