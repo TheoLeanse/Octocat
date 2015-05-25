@@ -1,1 +1,2 @@
-Explain what a branch is, in your own words
+A branch is a separate version of some code, to which changes can be made with the possibility of being merged back into the master branch at some point.
+
