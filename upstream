@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+The upstream remote is the original repository that has been forked into your forked repo (which will be called origin by default, and is probably on GitHub) that you might, for instance, clone down to work on locally on your machine. The upstream remote is therefore used to make sure that the version of the code that you are working on is up to date (with git fetch command) and then to contribute back to with a pull request once you have written some code.
